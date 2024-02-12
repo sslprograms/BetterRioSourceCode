@@ -1,0 +1,4 @@
+races=5000
+captcha_key=
+max_wpm=100
+accounts=user:pass,
